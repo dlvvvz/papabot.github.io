@@ -1,0 +1,12 @@
+.diseases-input{
+  border-radius: 10px;
+  width: 90%;
+  height: 30px;
+  border: solid 2px #e33b50;
+}
+body{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
